@@ -1,2 +1,1 @@
-# IBM-Full-Stack-Projects
-IBM Full Stack Projects for Certification
+# Express_Book_Review_Application_IBM
